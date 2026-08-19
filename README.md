@@ -25,9 +25,8 @@ Then open http://localhost:8000
 
 ## Before the next deploy
 
-Two placeholders still need real values:
+One placeholder still needs a real value:
 
 1. **Contact form** — create a free form at [formspree.io](https://formspree.io) and replace `YOUR_FORM_ID` in the `<form action>` in `index.html`. Until then the form does not deliver messages.
-2. **WhatsApp** — replace `233XXXXXXXXX` in `index.html` with the real number (country code, no `+`, no spaces).
 
 Optional: uncomment the LinkedIn / X / Instagram links in the footer once the real profile URLs are filled in.
